@@ -1,2 +1,0 @@
-# ooscar
-projecto ooscar
